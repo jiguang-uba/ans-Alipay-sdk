@@ -1,5 +1,4 @@
-asd-alipay-sdk [![NPM version][npm-image]][npm-url] [![License](https://img.shields.io/github/license/analysys/ans-wechat-sdk.svg)](https://github.com/analysys/ans-Alipay-sdk/blob/master/LICENSE) [![GitHub release](https://img.shields.io/github/release/analysys/ans-wechat-sdk.svg)](https://github.com/analysys/ans-Alipay-sdk/releases)
-
+## asd-alipay-sdk 
 ## 安装
 
 ```sh
@@ -45,16 +44,4 @@ sendDataTimeout | 否 | number | 10000 | 上报数据超时时间
 
 
 
-
----
-
-[![NPM downloads][npm-downloads]][npm-url]
-
-
-
-
-[homepage]: https://github.com/analysys/ans-Alipay-sdk
-[npm-url]: https://www.npmjs.com/package/asd-alipay-sdk
-[npm-image]: https://img.shields.io/npm/v/asd-alipay-sdk.svg?style=flat
-[npm-downloads]: https://img.shields.io/npm/dm/asd-alipay-sdk.svg?style=flat
 
